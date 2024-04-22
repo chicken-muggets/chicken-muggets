@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chicken-muggets
-- 👀 I’m interested in Javascript and front end web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me You can't
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on nothing
 - ⚡ Fun fact: My name is chicken muggets not chicken nuggets
 
 <!---

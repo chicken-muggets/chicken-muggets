@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chicken-muggets
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning C++ but i will probably give up
 - 💞️ I’m looking to collaborate on nothing
 - ⚡ Fun fact: My name is chicken muggets not chicken nuggets
 
